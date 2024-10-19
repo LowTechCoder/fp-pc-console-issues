@@ -1,4 +1,4 @@
-# Future Proof PC Console Issues
+# Future Proof PC Console - Issues
 
 ### Be sure to read the other guides named fp-pc-console-*
 
