@@ -1,4 +1,6 @@
-# x86-retro-issues
+# fp-pc-console-issues
+
+### Be sure to read the other guides named fp-pc-console-*
 
 ## Booting from different computers
 
@@ -11,3 +13,4 @@ And I noticed that the audio wasn't playing, so I had to change that in the audi
 Also, depending on how strong your computer is, you'll need to change the settings for your pcsx2 emulator. 
 I do per game settings by hitting the home button, and going down to the "copy settings" or "clear settings" to remove them.  It can be a little confusing since it doesn't really give you any warning that you are using per game settings.
 
+### Be sure to read the other guides named fp-pc-console-*
